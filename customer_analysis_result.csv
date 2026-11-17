@@ -1,0 +1,21 @@
+CustomerID,Age,Gender,City,PurchaseAmount,CustomerType
+1,22,Female,Chennai,2500,Regular
+2,25,Male,Coimbatore,3500,Regular
+3,30,Female,Madurai,4500,Regular
+4,35,Male,Chennai,6000,High Value
+5,28,Female,Salem,3000,Regular
+6,40,Male,Coimbatore,7500,High Value
+7,23,Female,Chennai,2000,Regular
+8,32,Male,Madurai,5000,Regular
+9,27,Female,Salem,4000,Regular
+10,45,Male,Chennai,9000,High Value
+11,29,Female,Coimbatore,5500,Regular
+12,33,Male,Salem,6500,High Value
+13,24,Female,Madurai,2800,Regular
+14,38,Male,Chennai,8000,High Value
+15,31,Female,Coimbatore,6200,High Value
+16,26,Male,Madurai,3200,Regular
+17,42,Female,Salem,8500,High Value
+18,36,Male,Chennai,7000,High Value
+19,21,Female,Coimbatore,1800,Regular
+20,39,Male,Madurai,7800,High Value
